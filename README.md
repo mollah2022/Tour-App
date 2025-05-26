@@ -1,4 +1,5 @@
 #🧳 TourApp - Android
+
 TourApp is a modern and user-friendly Android application that enables users to explore and book exciting tour packages directly from their mobile devices. Built using Java in Android Studio, this app connects to Firebase Realtime Database to fetch and display up-to-date travel packages with image sliders, detailed info, and an easy booking process.
 
 # 📸 Screenshots
@@ -6,7 +7,7 @@ TourApp is a modern and user-friendly Android application that enables users to 
 ![Home Screen](screenshots/home_screen.png)
 ![Package Details](screenshots/package_details.png)
 # ✨ Key Features
-🔥 Recent Tour Packages: Display the latest and most popular tour packages in real-time.
+Recent Tour Packages: Display the latest and most popular tour packages in real-time.
 
 Image Sliders: View attractive visuals of tour destinations using ViewPager2 and Glide.
 
