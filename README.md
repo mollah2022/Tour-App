@@ -27,8 +27,11 @@ RecyclerView	For displaying package lists
 
 # Target Audience
 Frequent Travelers
+
 Remote Workers
+
 Event Organizers
+
 Students & Professionals
 
 # 🚀 Getting Started
