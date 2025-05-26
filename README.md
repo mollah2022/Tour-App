@@ -19,10 +19,15 @@ Firebase Integration: Uses Firebase Realtime Database for storing and retrieving
 
 # 🛠️ Tech Stack
 Java	Core programming language
+
 Android Studio	IDE for development
+
 Firebase Realtime Database	Backend for storing tour packages
+
 ViewPager2	For image sliders
+
 Glide	Image loading and caching
+
 RecyclerView	For displaying package lists
 
 # Target Audience
